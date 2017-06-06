@@ -17,3 +17,7 @@ List of awesome React a11y components and projects
 ## Development
 * **[react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React.js applications**
 * [react-a11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
+
+## Other a11y Resources
+* [awesome-a11y](https://github.com/brunopulis/awesome-a11y#development-testing-and-validators) - List of awesome accessibility resources
+* [WAI-ARIA Cheat Sheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
