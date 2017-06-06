@@ -11,6 +11,9 @@ List of awesome React a11y components and projects
 ## WIP/Need Awesomeification
 * [react-a11y-video](https://github.com/dben/react-a11y-video) - Accessible HTML5 Video player React component (last updated 2y ago)
 * [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React (2y old)
+* [react-a11y-tabs-updated](https://codepen.io/ahomu/pen/qNQqak?editors=0010) - Old codepen example
+* [react-a11y-drawer](https://codepen.io/ahomu/pen/jAQymb?editors=0110)
 
 ## Development
+* **[react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React.js applications**
 * [react-a11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
