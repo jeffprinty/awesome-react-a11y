@@ -1,5 +1,5 @@
 # awesome-react-a11y
-List of awesome React a11y components and projects
+List of awesome React a11y components and projects. Check out the new [Accessibility section of the React docs](https://github.com/facebook/react/blob/master/docs/docs/accessibility.md)!
 
 ## Components
 
@@ -7,6 +7,7 @@ List of awesome React a11y components and projects
 * [react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
 * [react-menu](https://github.com/instructure-react/react-menu) - Accessible menu React component
 * [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
+* [davidtheclark/react-aria-modal: A fully accessible React modal built according WAI-ARIA Authoring Practices](https://github.com/davidtheclark/react-aria-modal)
 
 ### WIP/Need Awesomeification
 * [react-a11y-video](https://github.com/dben/react-a11y-video) - Accessible HTML5 Video player React component (last updated 2y ago)
@@ -16,6 +17,7 @@ List of awesome React a11y components and projects
 
 ## Utilities
 * [react-focus-trap](https://github.com/vigetlabs/react-focus-trap) - Traps focus for accessible dropdowns and modal content
+* [davidtheclark/focus-trap-react: A React component that traps focus](https://github.com/davidtheclark/focus-trap-react)
 
 ## Development
 * **[react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React.js applications**
