@@ -7,9 +7,9 @@ List of awesome React a11y components and projects. Check out the new [Accessibi
 * [react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
 * [react-menu](https://github.com/instructure-react/react-menu) - Accessible menu React component
 * [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
-* [react-aria-modal: A fully accessible React modal built according WAI-ARIA Authoring Practices](https://github.com/davidtheclark/react-aria-modal)
-* [react-aria-menubutton: A fully accessible, easily themeable, React-powered menu button](https://github.com/davidtheclark/react-aria-menubutton)
-* [react-aria-tabpanel: A fully accessible, extravagantly flexible, React-powered Tab Panel component](https://github.com/davidtheclark/react-aria-tabpanel)
+* [react-aria-modal](https://github.com/davidtheclark/react-aria-modal)
+* [react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton)
+* [react-aria-tabpanel](https://github.com/davidtheclark/react-aria-tabpanel) - Flexible, React-powered Tab Panel component
 
 ### WIP/Need Awesomeification
 * [react-a11y-video](https://github.com/dben/react-a11y-video) - Accessible HTML5 Video player React component (last updated 2y ago)
