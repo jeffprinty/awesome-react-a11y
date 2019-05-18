@@ -30,3 +30,4 @@ List of awesome React a11y components and projects. Check out the new [Accessibi
 ## Other a11y Resources
 * [awesome-a11y](https://github.com/brunopulis/awesome-a11y#development-testing-and-validators) - List of awesome accessibility resources
 * [WAI-ARIA Cheat Sheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
+* [React and Accessibility: Tips and Best Practices](https://www.aditus.io/talks/react-and-accessibility/)
